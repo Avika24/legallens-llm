@@ -1,0 +1,5 @@
+# Minimal dependencies for the Standalone Legal Transformer LLM
+# 100% Offline. Zero external API keys. Zero cloud services.
+
+torch>=2.0.0
+numpy>=1.24.0
